@@ -13,8 +13,6 @@ Skills: BOOTSTRAP / REACT / JS / HTML / CSS
 
 - 🔭 I’m currently Learning front end web devlopment.
 
-- 🌱 I’m currently learning Golang, Java, C++
-
 - 👨‍💻 All of my projects are available at [https://github.com/yeasinshaikh188](https://github.com/yeasinshaikh188)
 
 - 💬 Ask me about **HTML5, CSS3, JS, Bootstrap**
