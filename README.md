@@ -1,6 +1,6 @@
 ![I am yeasinshaikh188](https://github.com/yeasinshaikh188/yeasinshaikh188/blob/main/code.png)
 
-<h1 align="center">Hi 👋, I'm YEASIN SHAIKH(Tutul)</h1>
+<h1 align="center">Hi 👋, I'm YEASIN SHAIKH</h1>
 <h3 align="center">Programmer</h3>
 
 <div align="center">
