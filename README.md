@@ -2,6 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Yeain Shaikh</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<p>About me: I'm a passionate Front-End Web Developer skilled in HTML, CSS, JavaScript, and React. I enjoy creating responsive, user-friendly web applications and continuously strive to improve my skills with the latest technologies in web development.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yeasinshaikh188&label=Profile%20views&color=0e75b6&style=flat" alt="yeasinshaikh188" /> </p>
 
